@@ -50,27 +50,20 @@ We have the ability to integrate any asset,
 
 # Unique & Experienced
 
-- Different 
-    * Mechanics of Operation 
-    (similar to early withdrawl penalities or uber surcharge pricing, but distributed fees amongst
-everyone)
-
-- Utilizes Floating Point Math 
-    * Technically difficult to implement
-    (utilize an excellent library, ABDK 64x64)
-
-- Team is:
-    * Sam Bacha, Founder 
-    * 2 Engineers from cntract firm
-    * 1 Potential Partner, Sandy (an expert in KDB+/Quant)
-
-- Expense Model is LIGHT
-    * Advocating for new assets to utilize protocol 
-    * Layer2 already in progress for design
-
-- Unique Value Proposition 
-    * This can create opportiuintes for teams to integrate "Staking as a Service"
-    * Simply deposit tokens, just like creating a Uniswap Market 
+Different
+Mechanics of Operation (similar to early withdrawal penalties or uber surcharge pricing, but distributed fees amongst everyone)
+Utilizes Floating Point Math
+Technically difficult to implement (utilize an excellent library, ABDK 64x64)
+Team is:
+Sam Bacha, Founder
+2 Engineers from contract firm
+1 Potential Partner, Sandy (an expert in KDB+/Quant)
+Expense Model is LIGHT
+Advocating for new assets to utilize protocol
+Layer2 already in progress for design
+Unique Value Proposition
+This can create opportunities for teams to integrate "Staking as a Service"
+Simply deposit tokens, just like creating a Uniswap Market
 
 ---
 
